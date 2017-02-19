@@ -1,0 +1,6 @@
+[submodule "lib/PrimeMemoryDumping"]
+	path = lib/PrimeMemoryDumping
+	url = git@github.com:Pwootage/PrimeMemoryDumping.git
+[submodule "lib/nanogui"]
+	path = lib/nanogui
+	url = https://github.com/wjakob/nanogui.git
